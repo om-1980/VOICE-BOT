@@ -67,6 +67,3 @@ Click the **Exit** button or type **exit** to close the application.
 - 🏆 Voice Assistant Integration
 - 🔍 Improved NLU with deep learning
 
-## 📜 License
-MIT License. Feel free to modify and enhance! 🎉
-
